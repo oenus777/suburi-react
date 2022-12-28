@@ -5,7 +5,7 @@ import MainContent from './MainContent'
 import Footer from './Footer'
 
 // 1. import `ChakraProvider` component
-import { ChakraProvider, Box, Heading, Container } from '@chakra-ui/react'
+import { ChakraProvider,Container } from '@chakra-ui/react'
 
 
 export default function App() {

@@ -1,7 +1,6 @@
 import * as React from 'react'
 
-// 1. import `ChakraProvider` component
-import { ChakraProvider, Box, Heading, Container } from '@chakra-ui/react'
+import { Box } from '@chakra-ui/react'
 
 export default function AppBar() {
     return (
